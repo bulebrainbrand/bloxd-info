@@ -21,6 +21,7 @@ jobs:
           npm install playwright
           npx playwright install chromium --with-deps
       - name: run index
+        continue-on-error: true
         run: node index.js
       - name: commit and push
         if: always()

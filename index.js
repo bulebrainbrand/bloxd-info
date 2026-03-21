@@ -26,11 +26,10 @@ const fs = require("fs");
         };
         history.push(output);
         fs.writeFileSync("data.json", JSON.stringify(history, null, 2));
-        await browser.close();
       } catch (err) {
         console.log("save error", err);
-        await browser.close();
       }
+      await browser.close();
     }
   });
   await page.goto("https://bloxd.io", {

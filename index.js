@@ -26,15 +26,15 @@ const fs = require("fs");
         };
         history.push(output);
         fs.writeFileSync("data.json", JSON.stringify(history, null, 2));
-        browser.close();
+        await browser.close();
       } catch (err) {
         console.log("save error", err);
-        browser.close();
+        await browser.close();
       }
     }
   });
   await page.goto("https://bloxd.io", {
     waitUntil: "networkidle",
-    timeout: 6000000,
+    timeout: 600000,
   });
 })();

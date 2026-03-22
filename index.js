@@ -88,7 +88,7 @@ const waitForResponseData2 = (
         try {
           const req = res.request();
           let payload = req.postDataJSON();
-          payload.content.pageSize = 250;
+          payload.contents.pageSize = 250;
           const apiRequest = res.frame().page().content().request;
           const res2 = await apiRequest.post(
             "https://social16.bloxd.io/social/get-published-game-previews",

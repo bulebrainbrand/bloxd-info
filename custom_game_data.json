@@ -27082,5 +27082,2262 @@
         }
       ]
     }
+  },
+  {
+    "at": "2026-03-22T20:36:10.989Z",
+    "data": {
+      "results": [
+        {
+          "schematicId": "FRAlBN-Lhqbg-4eQvakZJ",
+          "name": "Doors: The rooms",
+          "description": "Bloxd's first horror game. Descend through 1,000 Rooms. How far can you survive?",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 518,
+          "favourites": 1744
+        },
+        {
+          "schematicId": "NX6FO2avxdhXt3Yg5aK5i",
+          "name": "1hour1life",
+          "description": "update: family defence experiment",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 266,
+          "favourites": 5912
+        },
+        {
+          "schematicId": "YmtqtJggnsIcxRci2ahyj",
+          "name": "imposter_brainfood",
+          "description": "NEW AIR SHIP MAP ty to tht guy on bloxd hub :D",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 191,
+          "favourites": 9396
+        },
+        {
+          "schematicId": "i6YISdCdCErn1uAsimE_c",
+          "name": "TNT Tag (Hot Potato)",
+          "description": "Pass the TNT and run... Be the last survivor!",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 146,
+          "favourites": 2323
+        },
+        {
+          "schematicId": "dR2m6qyt6euJs6N6nmMpD",
+          "name": "2-player-obby",
+          "description": "[update] bug fixes, cyan level is easier, new ultra troll and upgraded wins to coins amount!",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 145,
+          "favourites": 24029
+        },
+        {
+          "schematicId": "EhfHqCzt4B0-y-MWhBfRj",
+          "name": "Dungeons",
+          "description": "Fight dungeons with custom enchants(E.g thorns),custom armour,totems and more!",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 129,
+          "favourites": 62469
+        },
+        {
+          "schematicId": "7IVl8eWQk2oXfB97zL_B5",
+          "name": "Elex's parkour",
+          "description": "Can you beat all the levels?",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 105,
+          "favourites": 2509
+        },
+        {
+          "schematicId": "qphhr6zlcj9WcZKWiwNAc",
+          "name": "Manhunt",
+          "description": "Try to complete your objective as the Runner before the Hunters chase you down!",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 100,
+          "favourites": 5271
+        },
+        {
+          "schematicId": "Jp4i_Q5S0_r61izbfJbRO",
+          "name": "Glass Rush",
+          "description": "Step on the correct glass panels and make your way to the end. Choose carefully..",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 82,
+          "favourites": 12181
+        },
+        {
+          "schematicId": "cqPmawpBaF-Q9QZFPF-2W",
+          "name": "BETTER PVP",
+          "description": "🔥THE #1 PVP SERVER! SPEAR, MACE, CART, SHIELD! CUSTOM 1V1 ADDED!🔥",
+          "gamePublished": true,
+          "gameCategory": "Duels",
+          "ccu": 79,
+          "favourites": 1513
+        },
+        {
+          "schematicId": "6uAw-ojjkSrDHbb2LNfAN",
+          "name": "OG ARENA PVP",
+          "description": "Cool PvP Arena FFA👍🏻😃 with 1v1 against BOTS and REAL players!",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 60,
+          "favourites": 31210
+        },
+        {
+          "schematicId": "wJl3V-IpQPuneR9vuZkyv",
+          "name": "Prison OP",
+          "description": "Mine, kill mobs and players to escape from prison!",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 60,
+          "favourites": 12522
+        },
+        {
+          "schematicId": "r99mKHO2qqurUoLZhDVzL",
+          "name": "Draw & Guess",
+          "description": "Use of mouse/keyboard is recommended for easier drawing",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 55,
+          "favourites": 8304
+        },
+        {
+          "schematicId": "hQrDocBAbYfTGi3uV4qQN",
+          "name": "Ur Tiny: Lucky Block",
+          "description": "Very big UPDATE! Added a new BIOM and bugs fixed! :D",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 55,
+          "favourites": 5635
+        },
+        {
+          "schematicId": "KEmH3_KIxgZkmg0EscQki",
+          "name": "Try to Die💀",
+          "description": "Find a way to die! 176 Stages in total, can you reach to the end?",
+          "gamePublished": true,
+          "gameCategory": "Puzzle",
+          "ccu": 51,
+          "favourites": 15323
+        },
+        {
+          "schematicId": "LZfc3uAqyePTm8QKvWKS_",
+          "name": "skyblock :)",
+          "description": "add 2 islands. Will have more soon. Thanks for playing :).",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 44,
+          "favourites": 17773
+        },
+        {
+          "schematicId": "B_dHeZ9Fyo27wASZBzXy8",
+          "name": "U R Tiny lava",
+          "description": "When this game dies, play 🛥boat-sim🛶 or escape the rooms",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 44,
+          "favourites": 7260
+        },
+        {
+          "schematicId": "LlGrmQEJYaB-6YC7zA5yv",
+          "name": "YATCHVENTURE",
+          "description": "🔥FISHING🔥 Mining, Farming SIMULATOR",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 41,
+          "favourites": 24010
+        },
+        {
+          "schematicId": "02HSwvSzGvAKIud5cX2y-",
+          "name": "Parkour Spiral 3",
+          "description": "PARKOUR SPIRAL! Credit for the map: Hielke Maps. Made by Flamc04. my other game: 2-player-obby",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 39,
+          "favourites": 10656
+        },
+        {
+          "schematicId": "t5cDQwr3lZL8htGZkjVsn",
+          "name": "U R TINY",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 38,
+          "favourites": 10110
+        },
+        {
+          "schematicId": "eHOkdJLB3OMQkoEdGxx4h",
+          "name": "steal-a-pet🐾",
+          "description": "[NEW TOXIC UPDATE][PART 1][NEW PETS][NEW DESIGN][CRAFT MACHINE][THE BACKROOMS][PLUS MORE]",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 37,
+          "favourites": 50948
+        },
+        {
+          "schematicId": "k3QDYYHGVaf0cVK2m52z4",
+          "name": "lucky/block/pvp",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 37,
+          "favourites": 9876
+        },
+        {
+          "schematicId": "unadogYAtc2AT-UQ6Z2Wc",
+          "name": "Parkour Egg!",
+          "description": "Parkour inside an egg...  Credit for the map: Hielke Maps",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 36,
+          "favourites": 22073
+        },
+        {
+          "schematicId": "e7ZR-iKloA_dMnTPjcLmv",
+          "name": "road2heaven",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 36,
+          "favourites": 12583
+        },
+        {
+          "schematicId": "GWqzJDrcxDswMKQQKBire",
+          "name": "HighSchool-Reborn🏫",
+          "description": "His legacy lives on. A new school is born. ✨WAVE 1 - From March 20th to June 20th, 2026✨",
+          "gamePublished": true,
+          "gameCategory": "Roleplay",
+          "ccu": 34,
+          "favourites": 11405
+        },
+        {
+          "schematicId": "9THjdpJLdZGNvYi3CFaF0",
+          "name": "SPEED SIM",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 33,
+          "favourites": 5094
+        },
+        {
+          "schematicId": "XnVl27-D1nhXoZ2_OkFXf",
+          "name": "Task Rush 📢",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 32,
+          "favourites": 8897
+        },
+        {
+          "schematicId": "C1EaM-ygaqQJC94AIOkHa",
+          "name": "learn_to_parkor",
+          "description": "Yall, i updated!!! Updates: St. Paterick's Day Parkour(fixed, sry about that), new prize, armour...",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 30,
+          "favourites": 7633
+        },
+        {
+          "schematicId": "wISn7eXRAWDaSRbIU5eg-",
+          "name": "Slap Tower 2",
+          "description": "plsss gift me super rank if u like the game.and im the first maker of slap tower",
+          "gamePublished": true,
+          "gameCategory": "Tower",
+          "ccu": 28,
+          "favourites": 11722
+        },
+        {
+          "schematicId": "yj22LGt4B9Zf2jVniVGVK",
+          "name": "🧸Poppy Playtime🧸",
+          "description": "🧸Escape The Playtime Factory🧸 (1324 Chunks)\nALL CHAPTERS",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 28,
+          "favourites": 4437
+        },
+        {
+          "schematicId": "BoJvWNGOirV_ly9yMUaBs",
+          "name": "lucky block world",
+          "description": "lucky block world. code aint working il fix tommorrow or later today.",
+          "gamePublished": true,
+          "gameCategory": "Lucky Block",
+          "ccu": 27,
+          "favourites": 9909
+        },
+        {
+          "schematicId": "MO6D_drg55VtZK8iVLeyv",
+          "name": "Biome Skyblock V4",
+          "description": "I have found the gun hidden in the island. I am removing the gun. Whoever placed that gun, I am mad.",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 26,
+          "favourites": 11677
+        },
+        {
+          "schematicId": "Bv6E0xjdjSvMAT8nIVK-k",
+          "name": "Boss⚔Burst",
+          "description": "sryyyyyyyyyy ;;",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 25,
+          "favourites": 7095
+        },
+        {
+          "schematicId": "qpDXmhoi2ynw9h9qWRSrW",
+          "name": "100_daay😁😆",
+          "description": ":new spawn ",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 24,
+          "favourites": 24405
+        },
+        {
+          "schematicId": "7265tlrcjgORi6tVOvsBp",
+          "name": "1v1 SIMULATOR [!]",
+          "description": "Best 1v1 Gamemode To Play: UHC/HOLE PVP/BEDFIGHT/Classic & Bot PvP! ",
+          "gamePublished": true,
+          "gameCategory": "Duels",
+          "ccu": 24,
+          "favourites": 15590
+        },
+        {
+          "schematicId": "ld0uIs0uarMcT3TT0BbP6",
+          "name": "Firewarz(3.0)",
+          "description": "Added Whip and Boomerang",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 24,
+          "favourites": 13838
+        },
+        {
+          "schematicId": "3CBQAOX6d8YdWUca-dwL5",
+          "name": "💣🔥 PVP TNT !! 🔥💣",
+          "description": "💣🔥RANKS🔥💣 = NEW UPDATE!🔥 = ",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 24,
+          "favourites": 9576
+        },
+        {
+          "schematicId": "C8vdnbw5olYqR7lDMN4b6",
+          "name": "Sniper Wars",
+          "description": "guns",
+          "gamePublished": true,
+          "gameCategory": "Shooting",
+          "ccu": 23,
+          "favourites": 13465
+        },
+        {
+          "schematicId": "PEI0uNLWCHTKYayiELk1K",
+          "name": "dig to survive!",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 23,
+          "favourites": 13337
+        },
+        {
+          "schematicId": "gHpvy-UQWgQpg9fB3wUbj",
+          "name": "The Hot Potato Game!",
+          "description": "NEW MAP!!! Sour Sweetness | pass the bomb before the timer runs out - be the last one standing!",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 23,
+          "favourites": 4121
+        },
+        {
+          "schematicId": "Pe-oudEZT6hueKMRVwVML",
+          "name": "School",
+          "description": "explore a nice school",
+          "gamePublished": true,
+          "gameCategory": "Roleplay",
+          "ccu": 22,
+          "favourites": 18783
+        },
+        {
+          "schematicId": "vWU-Q89eQFlqPHIESPR_M",
+          "name": "Level up obby 4 NEW",
+          "description": "62 Levels, race with your friends and win an amazing price at the end! 💥",
+          "gamePublished": true,
+          "gameCategory": "Obby",
+          "ccu": 22,
+          "favourites": 6168
+        },
+        {
+          "schematicId": "64Nr-f5y_uZFGuttPPGaZ",
+          "name": "survival world 4",
+          "description": "This is the new survival world 4!!! 3 new biomes!",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 22,
+          "favourites": 1909
+        },
+        {
+          "schematicId": "zSR7ymOLNwksh0QS0kLYF",
+          "name": "player__",
+          "description": "player",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 21,
+          "favourites": 11392
+        },
+        {
+          "schematicId": "noWx31DAEaDP4UogGBFLv",
+          "name": "Football-Soccer",
+          "description": "Play football (soccer) & bomb mode",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 19,
+          "favourites": 21182
+        },
+        {
+          "schematicId": "O2oDBg6aM3DdDr929_lNr",
+          "name": "OP-Gear-Simpulator",
+          "description": "Get OP GEAR easily and fight COOL and FUN BOSSES!",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 19,
+          "favourites": 10891
+        },
+        {
+          "schematicId": "d9obQf6_rqQKEcaT9Tm2a",
+          "name": "10000 LEVELS PARKOUR",
+          "description": "New game\n(🌈10K LEVEL PARKOUR)\nAnyone want owner for 60day super :) just send me first to do gets",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 19,
+          "favourites": 5707
+        },
+        {
+          "schematicId": "UtACIq8aMz3k6HAL-RZWz",
+          "name": "+1 jump per sec s.2",
+          "description": "Bloxd but every second u get plus one jump power",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 18,
+          "favourites": 5237
+        },
+        {
+          "schematicId": "Z_95feUq2kjQz-j0kMi9i",
+          "name": "sky block!",
+          "description": "Sky block new update",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 18,
+          "favourites": 1050
+        },
+        {
+          "schematicId": "J-NnAS3F0AKlJfJQhde3I",
+          "name": "Hole PvP!",
+          "description": "Hole PvP with free items, resetting arena, custom commands (use '/help' to view) and more! -sk2",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 16,
+          "favourites": 7753
+        },
+        {
+          "schematicId": "J-NnAS3F0AKlJfJQhde3I",
+          "name": "Hole PvP!",
+          "description": "Hole PvP with free items, resetting arena, custom commands (use '/help' to view) and more! -sk2",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 17,
+          "favourites": 7753
+        },
+        {
+          "schematicId": "6K9UhGQHzrp_JBQxCYyeI",
+          "name": "Firewarz(V2) (Alpha)",
+          "description": "Credit to ImPhilli.",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 13,
+          "favourites": 1942
+        },
+        {
+          "schematicId": "MIDHuBBFUPvCE6OcCZS97",
+          "name": "Crystal Pvp",
+          "description": "guys tell \"SPQR_mongol\" if the code is bugged pls",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 12,
+          "favourites": 3743
+        },
+        {
+          "schematicId": "7OZOyk0OdKkQDqkDh20Od",
+          "name": "Saturn",
+          "description": "Survive on Saturn!! Sadly due to bloxd's 200 chunk limit\nsome of the rings are cropped :(",
+          "gamePublished": true,
+          "gameCategory": "Building",
+          "ccu": 10,
+          "favourites": 12914
+        },
+        {
+          "schematicId": "A47CAXlkRgJw_CqZoIMTw",
+          "name": "Bridger",
+          "description": "This is a bridging server!  New Mode: Parkour! Come and try it now!",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 10,
+          "favourites": 9435
+        },
+        {
+          "schematicId": "IUEmn86QHeq_WSafayCTw",
+          "name": "  Zombies VS Humans",
+          "description": "Kill Zombies And Try To Survive!Have Fun!",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 10,
+          "favourites": 7572
+        },
+        {
+          "schematicId": "H9TRe1j_zwB90T89ZUliy",
+          "name": "🌊block-fruit🍊",
+          "description": "Choose your TEAM, FARM mobs, QUEST, eat FRUIT and UPGRADE urself !!!",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 9,
+          "favourites": 3769
+        },
+        {
+          "schematicId": "Ki1fTmo-xEMpw96yDfupl",
+          "name": "🏁Racing Carz🚗",
+          "description": "[🎃] Lap Race With Other People And Be #1 Racer, New Update!",
+          "gamePublished": true,
+          "gameCategory": "Racing",
+          "ccu": 9,
+          "favourites": 3760
+        },
+        {
+          "schematicId": "Iruv8L1n5z7tAb6hcqKoz",
+          "name": "Ice Boat Race",
+          "description": "Race against your friends or yourself to see who is the winner",
+          "gamePublished": true,
+          "gameCategory": "Racing",
+          "ccu": 8,
+          "favourites": 10992
+        },
+        {
+          "schematicId": "6FdV9FryhFPt2J1A0mNa6",
+          "name": "🚗carz_race🏁",
+          "description": "Welcome to Best Car Racing Game with Shifting Gears for Realtime Experience, Play Fun Be a Pro Racer",
+          "gamePublished": true,
+          "gameCategory": "Racing",
+          "ccu": 7,
+          "favourites": 19185
+        },
+        {
+          "schematicId": "OOq7IfaHjSOLhyPPj1NdT",
+          "name": "Skyblock Mc 5",
+          "description": "I built you guys one more skyblock bc my first one got 400 likes thank you all so much gl :)",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 7,
+          "favourites": 6375
+        },
+        {
+          "schematicId": "znQ8L-YA4UFjzarS2TVbv",
+          "name": "Dig Block",
+          "description": "make tp pos",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 6,
+          "favourites": 28079
+        },
+        {
+          "schematicId": "LJobSVZ2iNiaK_z3JP8WT",
+          "name": "Sky biomes",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 6,
+          "favourites": 11842
+        },
+        {
+          "schematicId": "JcoGFQ3ngNI3vic3Ooj64",
+          "name": "🥷Ninja SMP!🥷",
+          "description": "WARNING: THIS IS INCOMPLETE. TO SEE THE NEW REALEASE, VISIT ninja-smp💀 (in survival)",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 6,
+          "favourites": 7317
+        },
+        {
+          "schematicId": "2_OHx7UPcYnHsfOyvYEOT",
+          "name": "Zombie-Fighting",
+          "description": "[UPDT] Lifesteal added! my other games: 💀Castle-PVP💀",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 6,
+          "favourites": 4935
+        },
+        {
+          "schematicId": "wtAw1p8bVnFf2eB45ES3L",
+          "name": "Hardest Parkour",
+          "description": "Beat the PARKOUR!",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 6,
+          "favourites": 4756
+        },
+        {
+          "schematicId": "CPJuRe-tTVbQM1fHioZXC",
+          "name": "16 Themes",
+          "description": "16 themes of parkour",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 6,
+          "favourites": 568
+        },
+        {
+          "schematicId": "nLOS9HOViPFuxxYYIq2UO",
+          "name": "Map Earth !",
+          "description": "join and search taming io in bloxd. sub to D_Gamer_YT - Offical Channel",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 5,
+          "favourites": 7097
+        },
+        {
+          "schematicId": "B2ITTF7A_myq_f4zA65lw",
+          "name": "CRYSTAL PVP ",
+          "description": "PLAY LIKE Devil_Ohio3",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 5,
+          "favourites": 5008
+        },
+        {
+          "schematicId": "sqs6S5ZuKexz4LY7fi3EY",
+          "name": "U R Tiny Wood House!",
+          "description": "LIMITED TIME DEALS AT TRADERS NEAR FARM ABOVE THE HOUSE!!!! ENJOY!!!",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 5,
+          "favourites": 4756
+        },
+        {
+          "schematicId": "YpqjoWnPVIJ326UWDpbMn",
+          "name": "8x8_skyblock(secret)",
+          "description": "secrets within...",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 5,
+          "favourites": 4552
+        },
+        {
+          "schematicId": "tsWDv95JcOVzhXF01d1zR",
+          "name": "Ice Boat Race ⛵ V2",
+          "description": "Fixed Everything. Enjoy Now!!",
+          "gamePublished": true,
+          "gameCategory": "Racing",
+          "ccu": 5,
+          "favourites": 2273
+        },
+        {
+          "schematicId": "mYmuCnZOhkh_6SnaRU2wO",
+          "name": "TRAPPED",
+          "description": "(HORROR GAME) SHOP ADDED. 11 LEVELS",
+          "gamePublished": true,
+          "gameCategory": "Horror",
+          "ccu": 5,
+          "favourites": 14
+        },
+        {
+          "schematicId": "PBIhIlqvK-D1VhspOCUNZ",
+          "name": "Grow & Farm",
+          "description": "RIP this acc cause i got permabanned :(",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 4,
+          "favourites": 124912
+        },
+        {
+          "schematicId": "rlqPKhG2191ixqvW_NRAR",
+          "name": "Survive 99 Nights",
+          "description": "Survive 99 Nights!\nv1.9",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 4,
+          "favourites": 19990
+        },
+        {
+          "schematicId": "NeW0B2q4L7_7M5Ns2BST9",
+          "name": "creative mode ",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 4,
+          "favourites": 14228
+        },
+        {
+          "schematicId": "P1aqYj_rwCXfuxITGscYT",
+          "name": "LUCKY BLOCK",
+          "description": "UPDATED! Persisted worlds is now enabled!",
+          "gamePublished": true,
+          "gameCategory": "Lucky Block",
+          "ccu": 4,
+          "favourites": 12041
+        },
+        {
+          "schematicId": "D8bDVaBce4LZ9rLGwnFzl",
+          "name": "Huntrix",
+          "description": "Rumi, Zoey, and Mira from K-pop Demon Hunters! Who should I do next?",
+          "gamePublished": true,
+          "gameCategory": "Cool Build",
+          "ccu": 4,
+          "favourites": 9667
+        },
+        {
+          "schematicId": "K2YznjpXnYG9nYpCigDi8",
+          "name": "LEGO Spider Man",
+          "description": "PLEASE REVIVE GunsWarfare🪖 CUSTOM GAMES!!! dead server. why is this  spider server active?!!!!!!!!",
+          "gamePublished": true,
+          "gameCategory": "Cool Build",
+          "ccu": 4,
+          "favourites": 7113
+        },
+        {
+          "schematicId": "_XFAOpdyqL1tjX7jPMGQJ",
+          "name": "Sky-Block All Lands ",
+          "description": "PLS MAKE THIS SERVER POPUAR",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 4,
+          "favourites": 5221
+        },
+        {
+          "schematicId": "MH3GimUzfVMeL7nzoUypZ",
+          "name": "sky_block😉",
+          "description": "Sky block ( Maker : Duper_are_hacker ) Updated new island & custom sky",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 4,
+          "favourites": 4581
+        },
+        {
+          "schematicId": "JhYzDSYxUvAcCQlRHTfIh",
+          "name": "get-eaten!!",
+          "description": "get eaten by a giant girl, have fun!",
+          "gamePublished": true,
+          "gameCategory": "Escape",
+          "ccu": 4,
+          "favourites": 1790
+        },
+        {
+          "schematicId": "PFhcECsEICCYaKaLRXBeV",
+          "name": "Mountain ICE BOAT ",
+          "description": "SHUT DOWN NO LONGER PLAYABLE, MAP MOVED TO NEW GAME ASPHALT 10 ICE BOAT",
+          "gamePublished": true,
+          "gameCategory": "Driving",
+          "ccu": 4,
+          "favourites": 1709
+        },
+        {
+          "schematicId": "MvAjZl9eSu_xv45LBvsL_",
+          "name": "🏬bloxdville🥳🌎",
+          "description": "Owner quit this city check out his new city ~blockside.city~ its better!",
+          "gamePublished": true,
+          "gameCategory": "Roleplay",
+          "ccu": 4,
+          "favourites": 555
+        },
+        {
+          "schematicId": "nOL5mZJKfUrHl_HnDJA2s",
+          "name": "🎒High School🏫",
+          "description": "With SEVEN different roles, a shop, 3 basketball courts! Become the bully, (Or a teacher!) ",
+          "gamePublished": true,
+          "gameCategory": "Roleplay",
+          "ccu": 4,
+          "favourites": 381
+        },
+        {
+          "schematicId": "HYdWLiCU-H1IApdsLhZag",
+          "name": "Mace VS NPC'S",
+          "description": "Mace New Npc with mustarddd's mace code",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 4,
+          "favourites": 28
+        },
+        {
+          "schematicId": "E3ok0thTq2S1ZmKxR2SxZ",
+          "name": "Tank Wars",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Shooting",
+          "ccu": 3,
+          "favourites": 13712
+        },
+        {
+          "schematicId": "M5G0WvPrnbSYbjCtSY_ZL",
+          "name": "xpyay",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 3,
+          "favourites": 13187
+        },
+        {
+          "schematicId": "TecoMnmOl0OwItsuM9EA2",
+          "name": "Creepawarz",
+          "description": "who removed my gamemode :c",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 3,
+          "favourites": 10455
+        },
+        {
+          "schematicId": "t-OQGEETCw1larSfbQ1Em",
+          "name": "Freeze Tag",
+          "description": "Escape the freezer to win!",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 3,
+          "favourites": 9954
+        },
+        {
+          "schematicId": "HXyNUs9cJPwbQNohvHCYk",
+          "name": "Parkour  Chunk",
+          "description": "Parkour in Chunks of Biomes, 40 levels. have Fun. Credit for the map: Hielke Maps",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 3,
+          "favourites": 8856
+        },
+        {
+          "schematicId": "SP_oiDnc5t0T-XZu18fMa",
+          "name": "99 DAYS IN FOREST 2",
+          "description": "UPDATE ",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 3,
+          "favourites": 8031
+        },
+        {
+          "schematicId": "hRPBQGINIm3dCUgIYN-Pv",
+          "name": "KILL MOBS = COINS",
+          "description": "Kill mobs and Sell The Loot for Gold Coins\nMap Updated: 01/02/2026",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 3,
+          "favourites": 7710
+        },
+        {
+          "schematicId": "UXD7bF152NTcNGgqx80sP",
+          "name": "ur tiny:Chest",
+          "description": "IM gonna go guys please play another game U r tiny Robot im want to leave forever BYE...",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 3,
+          "favourites": 5989
+        },
+        {
+          "schematicId": "EXTuVGBlNOGyBQqNp4zY6",
+          "name": "Lengthy Obby",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Obby",
+          "ccu": 3,
+          "favourites": 5806
+        },
+        {
+          "schematicId": "K8_KhKuWdB0GxOxXumMrZ",
+          "name": "🚂dead-rails-",
+          "description": "Update 2! = Added Tailor Classes, Added Sterling Mine with more loots!",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 3,
+          "favourites": 3650
+        },
+        {
+          "schematicId": "d-qzPXEqsvZ1sdAcSoAjI",
+          "name": "BOAT RACING 2",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Racing",
+          "ccu": 3,
+          "favourites": 3422
+        },
+        {
+          "schematicId": "w7DfPu_1PiYkDRjhimE5g",
+          "name": "U R TINY WORLD",
+          "description": "1.3\nNEW STUFF COME CHECK IT OUT",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 3,
+          "favourites": 2367
+        },
+        {
+          "schematicId": "3rmoBUMSvaojwkdWCR4xI",
+          "name": "🌈10K LEVEL PARKOUR",
+          "description": "10000 LEVELS PARKOUR V2 🌈 VERSION (118/10000)",
+          "gamePublished": true,
+          "gameCategory": "Obby",
+          "ccu": 3,
+          "favourites": 115
+        },
+        {
+          "schematicId": "wB3eP0T0fBxDK0FGynXl4",
+          "name": "sky bock",
+          "description": ":)) choi di ae",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 3,
+          "favourites": 78
+        },
+        {
+          "schematicId": "oIIsaYJi_awliS37pyZnw",
+          "name": "1 Skyblock Every Day",
+          "description": "Day 5",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 3,
+          "favourites": 45
+        },
+        {
+          "schematicId": "B1gN8qb-ClBb2QkcBdPen",
+          "name": "Lucky Block Game",
+          "description": "Lucky Blocks arena where u smash for random loot, funny surprises,fun!",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 3,
+          "favourites": 25
+        },
+        {
+          "schematicId": "rz_TgJDRKUxtZSD0e3vrS",
+          "name": "Levels Tower",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Tower",
+          "ccu": 3,
+          "favourites": 5
+        },
+        {
+          "schematicId": "TYq4q8LFF8XC16oEMZ7bz",
+          "name": "One Chunk!",
+          "description": "Happy 1st Anniversy! Thank you! Lucky Uptate",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 2,
+          "favourites": 32744
+        },
+        {
+          "schematicId": "CekAMnTuWnRYSRWhr-FfV",
+          "name": "Parkour/Enchant/PVP",
+          "description": "You Can Parkour To Get Gold Coins To Get\nArmour and Sword etc. and Enchant Your Items to PVP",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 2,
+          "favourites": 23933
+        },
+        {
+          "schematicId": "CerN6n1enakt8UcSOi2il",
+          "name": "Endgame PVP",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 2,
+          "favourites": 17189
+        },
+        {
+          "schematicId": "pnuDEvup75il_BgNZRK_-",
+          "name": "Guns Warfare 🪖 ",
+          "description": "(Roleplay Guns Server!). HotFix: NPC ChaseRadius Updated added Bins Vend Machine and more",
+          "gamePublished": true,
+          "gameCategory": "Shooting",
+          "ccu": 2,
+          "favourites": 11528
+        },
+        {
+          "schematicId": "CBlJscDWEQQ3Xhc6CrP2k",
+          "name": "✨🐶adopt🐱✨",
+          "description": "BIG LOTS: We Opened Our New Store in ✨🐶adopt🐱✨",
+          "gamePublished": true,
+          "gameCategory": "Roleplay",
+          "ccu": 2,
+          "favourites": 11116
+        },
+        {
+          "schematicId": "BqaYRzClZ7kn7vCPcDqaJ",
+          "name": "U R TINY!",
+          "description": "This game is now turning to a PvP arena. So soon, I will update the game.",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 2,
+          "favourites": 10400
+        },
+        {
+          "schematicId": "i385Yh-3FUBeoXkHveExx",
+          "name": "Climbing On The PC",
+          "description": "Climbing On The Gaming PC For Loots, PvP Other Players. 🎆New Update, New Loots🎆",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 2,
+          "favourites": 10263
+        },
+        {
+          "schematicId": "ryBiOhrEDW5htsGTAWeKI",
+          "name": "Biome Skyblock V2",
+          "description": "Moving to +biomeskyblockv3\nAdventure in biomes like the Pillager Outpost, Snowy Badlands, and more!",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 2,
+          "favourites": 9381
+        },
+        {
+          "schematicId": "QFKUfU26AbY6oDUOxcRe5",
+          "name": "😎🌀fly-sim💸🔥",
+          "description": "MARCH 15TH UPDATE: Prison World, New Admin Abuses, and More!",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 2,
+          "favourites": 5644
+        },
+        {
+          "schematicId": "wMAv130M3KO8X393ddP4a",
+          "name": "Tame ANY mob",
+          "description": "Tame and ride any mob - free saddles, mob catchers, food, name tags!",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 2,
+          "favourites": 5257
+        },
+        {
+          "schematicId": "z3aaF2mx7oc8sgc8Rpk2g",
+          "name": "Survival world 1",
+          "description": "join (survival world 2) its a new version of this custom game with new spirit biome and the moon...",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 2,
+          "favourites": 4936
+        },
+        {
+          "schematicId": "xq9dfMh8fXWB3kuAHnhXe",
+          "name": "Two Chunk world",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 2,
+          "favourites": 4776
+        },
+        {
+          "schematicId": "R5tdVzFw2wRr3AnrgBGTr",
+          "name": "LazerStrike",
+          "description": "Grab your laser and join fast-paced PvP battles!",
+          "gamePublished": true,
+          "gameCategory": "Shooting",
+          "ccu": 2,
+          "favourites": 4736
+        },
+        {
+          "schematicId": "ODSJ9PmwEAB9ay5wkNqX-",
+          "name": "bigworld8x8fr",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 2,
+          "favourites": 4295
+        },
+        {
+          "schematicId": "F7ncaOfV4etDrLgJZfpZ4",
+          "name": "One Lucky Chunk",
+          "description": "Find the hidden code block, and its an easter egg shhhh dont tell anyone >:)\n",
+          "gamePublished": true,
+          "gameCategory": "Tower",
+          "ccu": 2,
+          "favourites": 3301
+        },
+        {
+          "schematicId": "Pmo0Hig0kfH_KUkW7d1KL",
+          "name": "Strong Simulator",
+          "description": "[UPDT] Added Rebirths!",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 2,
+          "favourites": 3267
+        },
+        {
+          "schematicId": "w-vNkTuMmq1o6ql_FRd5p",
+          "name": "survive-in-raft",
+          "description": "expand the raft and fish! NEW UPDATE! Island and Crates!",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 2,
+          "favourites": 2701
+        },
+        {
+          "schematicId": "fERseEqT5s1-uq-Ivujmz",
+          "name": "Speed Simulator!",
+          "description": "New Money is a Block of Moonstone!\nSVS_M1rac_TRC",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 2,
+          "favourites": 2694
+        },
+        {
+          "schematicId": "Qek4f2GgbkX3ihPWW0O2C",
+          "name": "99 night in forest🦌",
+          "description": "Build camp with friends [WITH NIGHT AND HUNGER BAR!] New NPCs with christmas soon",
+          "gamePublished": true,
+          "gameCategory": "Racing",
+          "ccu": 2,
+          "favourites": 2628
+        },
+        {
+          "schematicId": "-TjJhbVUEQHcZPdVLGg0y",
+          "name": "PACMAN 3D",
+          "description": "waka, waka!",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 2,
+          "favourites": 1976
+        },
+        {
+          "schematicId": "M4rt8RwjEPoE28I0dWO1x",
+          "name": "Giant Players !",
+          "description": "TYSM for 700 likes! Join for free creative. Destroy or Change Giant Statue Players!",
+          "gamePublished": true,
+          "gameCategory": "Cool Build",
+          "ccu": 2,
+          "favourites": 1139
+        },
+        {
+          "schematicId": "JZh4DNKYCXav_zH04L92j",
+          "name": "Tornado PvP",
+          "description": "Learn to use harsh terrain to your advantage in bloxd pvp",
+          "gamePublished": true,
+          "gameCategory": "Tower",
+          "ccu": 2,
+          "favourites": 222
+        },
+        {
+          "schematicId": "l8fLJm4bTpGUDaaI4YTPp",
+          "name": "Mace-_-Pvp-_-Fun",
+          "description": "welcome to Mace-_-Pvp-_-Fun this is fun for play to day to player come my world! we have to fun!",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 2,
+          "favourites": 156
+        },
+        {
+          "schematicId": "Y7yI1FasgwmJVtKhq3SEr",
+          "name": "Luck PVP",
+          "description": "use lucky blocks to get weapons!",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 2,
+          "favourites": 143
+        },
+        {
+          "schematicId": "4jw_d_GncFSaCl54X7gI7",
+          "name": "Bloxd Basic",
+          "description": "Roleplay or Horror (Baldi Basic Map!. Run away from Zombie NextBot!, Roleplay or Chase)",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 2,
+          "favourites": 135
+        },
+        {
+          "schematicId": "CGJRZDlAJGosMaPw0ajTi",
+          "name": "🟤Jupiter🟤",
+          "description": "Explore JUPITER and upgrade it by building on it in anyway you like!",
+          "gamePublished": true,
+          "gameCategory": "Cool Build",
+          "ccu": 2,
+          "favourites": 60
+        },
+        {
+          "schematicId": "ub_hoRoOCdMaOrM9Mjlsn",
+          "name": "sky block :)",
+          "description": "sky block",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 2,
+          "favourites": 53
+        },
+        {
+          "schematicId": "onjRMcooerG5eH3cA0cDw",
+          "name": "POPPY BLOXDTIMEesp",
+          "description": "Despues de que te llegue una carta regresas a la antigua fabrica PLAYTIMEco",
+          "gamePublished": true,
+          "gameCategory": "Puzzle",
+          "ccu": 2,
+          "favourites": 38
+        },
+        {
+          "schematicId": "-o7j7kbH0WfvH-fAmY_cf",
+          "name": "Escape the rooms!!",
+          "description": "ESCAPE ALL 25 LEVELS OF THIS ESCAPE ROOM TOWER Owner:Giancarlo12376",
+          "gamePublished": true,
+          "gameCategory": "Escape",
+          "ccu": 2,
+          "favourites": 34
+        },
+        {
+          "schematicId": "yTSjFLPCRAI8oBMwXixFg",
+          "name": "3 Player Obby",
+          "description": "You need 3 players to play and parkour! Credits: flamec04",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 2,
+          "favourites": 33
+        },
+        {
+          "schematicId": "YKWXv4GcC1ni6ref2DSJN",
+          "name": "Glid-er",
+          "description": "Level up your glider skill!! 💯👌",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 2,
+          "favourites": 3
+        },
+        {
+          "schematicId": "am9_BPWfqo01BS_0pfGXG",
+          "name": "pvp gd obby",
+          "description": "bloxd io but geometry dash.",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 2,
+          "favourites": 2
+        },
+        {
+          "schematicId": "mkZnKKxsQCL0Q8HjeN2aB",
+          "name": "🎁lucky-block🎲",
+          "description": "Lucky or Unlucky?\n1000 Diamonds or 1000000000 Zombies??\nLike game pls!",
+          "gamePublished": true,
+          "gameCategory": "Lucky Block",
+          "ccu": 1,
+          "favourites": 31979
+        },
+        {
+          "schematicId": "_XL77fIjuBeggPAXzZOh5",
+          "name": "🌈parkour💸",
+          "description": "claim your update reward now (only today)",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 1,
+          "favourites": 23042
+        },
+        {
+          "schematicId": "jIfAJMhswKPXQjVMG5Bo4",
+          "name": "Level up obby 3",
+          "description": "Pls subscribe to \"AvieHDR\" on YT. I post cool content there. 😉",
+          "gamePublished": true,
+          "gameCategory": "Obby",
+          "ccu": 1,
+          "favourites": 19560
+        },
+        {
+          "schematicId": "19FAYPhBANG2TUa1aeKpG",
+          "name": "Prizon Escape😈🚔🤑",
+          "description": "Escape frome a real Prizon! Parcore! Survive!\nTakes 20+ Mins! 🤑😈🚔💰",
+          "gamePublished": true,
+          "gameCategory": "Puzzle",
+          "ccu": 1,
+          "favourites": 16351
+        },
+        {
+          "schematicId": "8PsMnJlMw4LZRn1NScn93",
+          "name": "island",
+          "description": "I was gona do an update at 10K likes but idk if we hit it or not / : BRING BACK LIKES!",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 1,
+          "favourites": 13881
+        },
+        {
+          "schematicId": "Ev_JCt6qp9mdbXiNanbav",
+          "name": "Mines Simulator",
+          "description": "Mine Ores 💎 => upgrade your mine => mine better ores => prestige for buffs 💪",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 1,
+          "favourites": 13059
+        },
+        {
+          "schematicId": "QRyd3fsZE4ZqSEOhRUVDH",
+          "name": "end_pvp",
+          "description": "Kill mobs! NEW : netherite armor/sword ! Sorry for my inactivity (I work for the next update)",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 1,
+          "favourites": 11324
+        },
+        {
+          "schematicId": "qq3YTgWyvtzDaLUG9-iTZ",
+          "name": "Leo",
+          "description": "Cool Leo Build!!!! (creative mode)",
+          "gamePublished": true,
+          "gameCategory": "Building",
+          "ccu": 1,
+          "favourites": 10272
+        },
+        {
+          "schematicId": "o1-xDlVVBqk-QQSJn561E",
+          "name": "Upscaled House  ",
+          "description": "How Did People Get Creative?????",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 8809
+        },
+        {
+          "schematicId": "eYLlxIj57CMQqObSwHPdF",
+          "name": "随机空岛生存2",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 7107
+        },
+        {
+          "schematicId": "hwXmGORtEPKewwmzTh6Y2",
+          "name": "SAY = GET",
+          "description": "I'm quitting Bloxd soon, as it is trash and other games are way more fun (Don't even TRY to stop me)",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 1,
+          "favourites": 6698
+        },
+        {
+          "schematicId": "kwgqxjw7iOu0XsvmmghQ1",
+          "name": "Saja Boys",
+          "description": "Abby, Baby, Jinu, Mystery, and Romance from K-pop Demon Hunters! Pls like ",
+          "gamePublished": true,
+          "gameCategory": "Cool Build",
+          "ccu": 1,
+          "favourites": 5831
+        },
+        {
+          "schematicId": "Mw5V-sWch7q-uht03ZAKy",
+          "name": "Sky Block 2.13",
+          "description": "Added more island.",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 1,
+          "favourites": 5665
+        },
+        {
+          "schematicId": "F9Wz8KwegiRq7amWnbsrM",
+          "name": "Obby of Hell 2 😈",
+          "description": "-Great rewards\n-PVP enabled\n-Each level gets harder",
+          "gamePublished": true,
+          "gameCategory": "Obby",
+          "ccu": 1,
+          "favourites": 5330
+        },
+        {
+          "schematicId": "jsJUiuFbobv9idDSUWoei",
+          "name": "ICE CAVE RACING",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Racing",
+          "ccu": 1,
+          "favourites": 4866
+        },
+        {
+          "schematicId": "jgjHfg4I-mR_oKGqpJn3w",
+          "name": "Flight Sim (2.0)",
+          "description": "reset the map",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 1,
+          "favourites": 3719
+        },
+        {
+          "schematicId": "3Qj87hjIduc93j-eJ0vvi",
+          "name": "comeinkca",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 1,
+          "favourites": 2599
+        },
+        {
+          "schematicId": "BySBe1qL3bUFa8ZPlvPiD",
+          "name": "God of War",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 1,
+          "favourites": 2572
+        },
+        {
+          "schematicId": "WAuSgxswc9HtPaeLciBnM",
+          "name": "CastleEscapeOriginal",
+          "description": "The Original Castle Escape! (Updated Version is also available!)",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 2488
+        },
+        {
+          "schematicId": "zKWy728Y9bit2KYxRZUzM",
+          "name": "Ice boat race[UPD!]",
+          "description": "Alt track + bug fixes. \nJoin the game for info abt next update(A BIG ONE)",
+          "gamePublished": true,
+          "gameCategory": "Driving",
+          "ccu": 1,
+          "favourites": 2008
+        },
+        {
+          "schematicId": "_4hd7GSr4W2Wz9uQUtLqa",
+          "name": "🎮parkour😎",
+          "description": "ITS A PARKOUR TOWER! THE TALLEST PARKOUR TOWER EVER!!!",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 1984
+        },
+        {
+          "schematicId": "GIQ1huhp_QCLmEoHpixzy",
+          "name": "Ur tiny:Lucky Block",
+          "description": "Big lucky block and you tiny (misson Update!!!? :))",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 1920
+        },
+        {
+          "schematicId": "iHFVFdxmdhKh5K87PUl8j",
+          "name": "💎the-squidgame",
+          "description": "is the squid game",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 1,
+          "favourites": 1816
+        },
+        {
+          "schematicId": "_E58ec9CvKtRMdf0TKytC",
+          "name": "get_eaten2",
+          "description": "get eaten 2",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 1603
+        },
+        {
+          "schematicId": "SZJwTjAxA8FPrlpBwzNHs",
+          "name": "Chest Obby Tower",
+          "description": "A big chest inside a parkour and the finish line make this popular and have fun!",
+          "gamePublished": true,
+          "gameCategory": "Obby",
+          "ccu": 1,
+          "favourites": 1481
+        },
+        {
+          "schematicId": "83iMk6wY8wTNF-vwiBRJ8",
+          "name": "Parkour Pyramid",
+          "description": "conquer the pyramid / by boba1111. Credit: Hielke Maps / updt- map fixes ,\nbugs fixes",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 1,
+          "favourites": 1472
+        },
+        {
+          "schematicId": "HupDbQFwWn39awf6YrOXQ",
+          "name": "99 Nights In Forest",
+          "description": "yay , i got _youseennothing_'s new updated map",
+          "gamePublished": true,
+          "gameCategory": "Horror",
+          "ccu": 1,
+          "favourites": 975
+        },
+        {
+          "schematicId": "_pRPTcTYKhCUA-12MT5OT",
+          "name": "Spiral Pakour Bubble",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 1,
+          "favourites": 952
+        },
+        {
+          "schematicId": "PF7vyKMGDaq4ADcvCBnTS",
+          "name": "Paurkour tower!",
+          "description": "good paurkour for phone and computer(we tested) :)",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 1,
+          "favourites": 877
+        },
+        {
+          "schematicId": "-UbsDFa0gpz0GCek07841",
+          "name": "My1st Builded Player",
+          "description": "A cool Building as a Player, that has Secret Rooms.",
+          "gamePublished": true,
+          "gameCategory": "Building",
+          "ccu": 1,
+          "favourites": 820
+        },
+        {
+          "schematicId": "nDdf0E5EigwpRvWgUXCn3",
+          "name": "God Miner",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 1,
+          "favourites": 759
+        },
+        {
+          "schematicId": "LGr6T7pwOzuaDmUqLbrHX",
+          "name": "_creative_",
+          "description": "pls join my world \nFREE CREATIVE",
+          "gamePublished": true,
+          "gameCategory": "Obby",
+          "ccu": 1,
+          "favourites": 629
+        },
+        {
+          "schematicId": "rpz6roGa_3DdUG03twpeW",
+          "name": "随机物资空岛生存",
+          "description": "新版随机物资空岛,可以获得:重锤/长茅/鞭子 等逆天武器,地图中还有很多神秘岛屿!岛屿上会有丰富的物资，欢迎给位玩家前来游玩",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 577
+        },
+        {
+          "schematicId": "yYXdIo1GYb4xeSwwLdf2z",
+          "name": "Escape Parkour Cast!",
+          "description": "UPDATED (PART 2)!!!!!!!!!!!\nESCAPE + PARKOUR + MYSTERY",
+          "gamePublished": true,
+          "gameCategory": "Escape",
+          "ccu": 1,
+          "favourites": 551
+        },
+        {
+          "schematicId": "2sbFxOwZWPmwsHrn_ZEAj",
+          "name": "McDonalds",
+          "description": "A Mcdonald's build, suitable for roleplay.\nCredits to _Itz_Superior_Steve_ for helping.",
+          "gamePublished": true,
+          "gameCategory": "Roleplay",
+          "ccu": 1,
+          "favourites": 454
+        },
+        {
+          "schematicId": "9jViJqCXG-CUcUhyX7OTx",
+          "name": "Escape Rooms",
+          "description": "find escape, and dont forget to find secret! update: new 5 city themed levels! enjoy!",
+          "gamePublished": true,
+          "gameCategory": "Escape",
+          "ccu": 1,
+          "favourites": 420
+        },
+        {
+          "schematicId": "M3foOvSIhER_XuC4pHoYq",
+          "name": "DIg block",
+          "description": "CREATIVE!!!",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 390
+        },
+        {
+          "schematicId": "Xo6Ek5mbAYPneXA6opCAJ",
+          "name": "Big Blocks",
+          "description": "Cool Giant Blocks, Change Or Destroy!!!\n    {Creative Mode}    \nLike the game to 500 for more blocks",
+          "gamePublished": true,
+          "gameCategory": "Cool Build",
+          "ccu": 1,
+          "favourites": 319
+        },
+        {
+          "schematicId": "vq8g_LYkNIoNIwSEXrw1M",
+          "name": "Create a City",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Cool Build",
+          "ccu": 1,
+          "favourites": 255
+        },
+        {
+          "schematicId": "jpWM6dA5b5yXNxTyNYrjI",
+          "name": "Statue PvP",
+          "description": "10 Statues Total [v1.12",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 1,
+          "favourites": 179
+        },
+        {
+          "schematicId": "pC8K9ujwZVzrYDRvDpxU4",
+          "name": "Grief and Fracture",
+          "description": "DESTROY the grow and farm map!\n(Using custom coded wands!)",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 167
+        },
+        {
+          "schematicId": "nfWdP15OOzfg-AuGxAw2b",
+          "name": "Spongebob",
+          "description": "updated:\ncustom skins\nhouses\nkrusty krab\nmore",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 146
+        },
+        {
+          "schematicId": "HoRusEYHArIXG4kPczmUL",
+          "name": "poppy🧸playtime",
+          "description": "There 1234 chapter and the owner is muted",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 145
+        },
+        {
+          "schematicId": "lS5ZtGWVVm-qtphLPaxSt",
+          "name": "EPIC Roller Coaster",
+          "description": "this rollercoaster works with a code AND HAS WORKING KARTS but loop dont work awesome other wise:)",
+          "gamePublished": true,
+          "gameCategory": "Driving",
+          "ccu": 1,
+          "favourites": 142
+        },
+        {
+          "schematicId": "FJubrTAZ0C-kYRPTyNsmQ",
+          "name": "Ur Tiny Lucky Block",
+          "description": "Your tiny and into the lucky blocks\n",
+          "gamePublished": true,
+          "gameCategory": "Lucky Block",
+          "ccu": 1,
+          "favourites": 121
+        },
+        {
+          "schematicId": "cz3UzNVN_bgwIq02cR12b",
+          "name": "Blue Lock Game⚽!",
+          "description": "Come Play This Game To See Who Is The Best Soccer Player!!",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 112
+        },
+        {
+          "schematicId": "hRTYMm41B5Ga2fwE4kiJT",
+          "name": "Bigger moon",
+          "description": "A larger moon!there are still a lot of resources in the lunar ruins!更大的月球!月球遗迹里还有非常多的物资!",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 91
+        },
+        {
+          "schematicId": "jgiSDLET6Vu1cTBIzaNPl",
+          "name": "Tame / PvP ",
+          "description": "Come to pvp players with EVERY TYPE OF MOB as ur pet , EVEN KNIGHTS, This was first TO Tame Any Mob",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 81
+        },
+        {
+          "schematicId": "XGb1kmghw2uFG0l6Bl970",
+          "name": "Fly-sim",
+          "description": "fly-sim , speed-sim",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 1,
+          "favourites": 75
+        },
+        {
+          "schematicId": "lsWAX497xRlnQQvwW7CTK",
+          "name": "The Lava Dungeons",
+          "description": "Free Super! Get featured by FAMOUS YOUTUBERS! [UPDATE] BOSS FIGHT! RANKED! PvE, PvP, Explore, Create",
+          "gamePublished": true,
+          "gameCategory": "Racing",
+          "ccu": 1,
+          "favourites": 63
+        },
+        {
+          "schematicId": "CocuWknIubMq4RVn8Du7P",
+          "name": "lucky-blocky-world",
+          "description": "mine blocks get stuff and more  :)",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 40
+        },
+        {
+          "schematicId": "WsNOZ0lTXm_NFx2NwnY1U",
+          "name": "speed&simulator",
+          "description": "Welcome! If u join play fight you will able to see one of my mini games\nLike the winter thing",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 1,
+          "favourites": 35
+        },
+        {
+          "schematicId": "jh13djP7V6jArVsLvld_c",
+          "name": "Snackrooms",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 1,
+          "favourites": 33
+        },
+        {
+          "schematicId": "HMK5eBGGbAPDrLBpjSrk6",
+          "name": "escape-horor👻",
+          "description": "pls join",
+          "gamePublished": true,
+          "gameCategory": "Escape",
+          "ccu": 1,
+          "favourites": 17
+        },
+        {
+          "schematicId": "DMjJsSsR03IDieA72MabK",
+          "name": "ZOMBIE APOCALIPSE!!",
+          "description": "UPGRADED!! MORE SPAWNERS,BIGGER MAP!!\nPLZ JOIN",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 1,
+          "favourites": 16
+        },
+        {
+          "schematicId": "qWDQNn6-_u_qmYRAvpxkZ",
+          "name": "eeeeeeeee2",
+          "description": "Don't beg please!!!",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 15
+        },
+        {
+          "schematicId": "UTizYfXUrLE9HY_vCD2NI",
+          "name": "peaceorisit😈",
+          "description": "have a peacful life, be an admin,or side admin,fight,having guns, and more",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 14
+        },
+        {
+          "schematicId": "V2VnMYeQKmJz8uR9IDyNf",
+          "name": "Jungle_PVP_Reborn",
+          "description": "Reborn is out! Play jungle_PVP in a brand new style\nwith new biomes. Jungle_terror in 31 december!",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 1,
+          "favourites": 13
+        },
+        {
+          "schematicId": "pVSujiKQ868j2FxWAvxd7",
+          "name": "pvp_mobs!!!!",
+          "description": "Welcome Guys!This is were u can farm ur xp!",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 1,
+          "favourites": 13
+        },
+        {
+          "schematicId": "hFDO667GTHx0tYuQm2MWV",
+          "name": "fnaf SON",
+          "description": "this is fnaf but whit all animatronics",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 9
+        },
+        {
+          "schematicId": "ANJ7WqxT1IqdNrhZ3dNrk",
+          "name": "CREATIVE SKY BLOCK",
+          "description": "ITS CREATIVE !!!",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 7
+        },
+        {
+          "schematicId": "Yyf9L9p2Hhkmxl8hOB3NF",
+          "name": "Bomberman",
+          "description": "Kill other players with explosives to gain points for your team!",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 1,
+          "favourites": 4
+        },
+        {
+          "schematicId": "g1DwOL3nf-UBLSP8oV0fp",
+          "name": "💥Strike-SMP💥",
+          "description": "A Survival Smp Except it has Orbital Strike Cannons XP arrows=Nuke, Shield arrows=Stab Shot. SURVIVE",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 3
+        },
+        {
+          "schematicId": "W37f7up3BzcS5qMsf25HH",
+          "name": "mysterylooter",
+          "description": "Try to get the best loot in different mysterious ruins or temples!",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 3
+        },
+        {
+          "schematicId": "c0DzreDDSyXkgIINxp7c4",
+          "name": "Survival",
+          "description": "The free items!",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 1,
+          "favourites": 2
+        },
+        {
+          "schematicId": "1DLBE4fT5xDn9meQxOC0t",
+          "name": "Sky bridge pvp",
+          "description": "in this game mode you have to fight on a naro brige above void",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 1,
+          "favourites": 1
+        },
+        {
+          "schematicId": "jjRT7i153xOFbU-x6_M1c",
+          "name": "4m0ngus.",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 1
+        },
+        {
+          "schematicId": "mC6XpJcKUgX5oNA_nVgH_",
+          "name": "Prisonpuzzle",
+          "description": "Escape the prision No PvP and No Cheating\nSorry its not completely done yet.",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 1
+        },
+        {
+          "schematicId": "OzXQOtzUb4QGeXPZoccMN",
+          "name": "Easy's Parkour 2",
+          "description": "Easy's Parkour 2 - Update 11.03.26 - Kontynuuj Level lub idź na spawna",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 1,
+          "favourites": 0
+        },
+        {
+          "schematicId": "6w9zTRKUNVdLHBy4zieDM",
+          "name": "____basketball_",
+          "description": "This is a sport called basketball, the 2nd place best sports. There is famous players like LeBron,",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 1,
+          "favourites": 0
+        },
+        {
+          "schematicId": "DgCuzwgv4XLhtIePa4p4G",
+          "name": "Bus Driver Life",
+          "description": "Ur job is to drive buses and pick up-drop off people",
+          "gamePublished": true,
+          "gameCategory": "Puzzle",
+          "ccu": 1,
+          "favourites": 0
+        },
+        {
+          "schematicId": "7F16E6V9MmbfoP--XyDEl",
+          "name": "ParkourSpiral",
+          "description": "A Spiralling Parkour! Credit for the map: Hielke Maps",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 0,
+          "favourites": 46460
+        },
+        {
+          "schematicId": "1Moxe4VezY_G3V29MuWsw",
+          "name": "BloxParty",
+          "description": "A minigame lobby! I fixed the invite ;-;",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 0,
+          "favourites": 24112
+        },
+        {
+          "schematicId": "UiXRy4e0EZ48J0iK0Y9iz",
+          "name": "ICE ARENA PVP",
+          "description": "[UPDATE] New Rank System + More!\nMade By jugn",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 0,
+          "favourites": 23591
+        },
+        {
+          "schematicId": "0nTdPUEfPdLa9hJo3hIDy",
+          "name": "Ice Boat Race ⛵",
+          "description": "Capes,Skins,Ranks,Coloured Chats and more....",
+          "gamePublished": true,
+          "gameCategory": "Racing",
+          "ccu": 0,
+          "favourites": 19975
+        },
+        {
+          "schematicId": "sDFm6tYODPmzTUmtLqoag",
+          "name": "ARENA PVP",
+          "description": "[UPDATE] made by jugn",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 0,
+          "favourites": 17925
+        },
+        {
+          "schematicId": "jK8P8hC2HXjMjKATtUtrY",
+          "name": "GTA NYC",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 0,
+          "favourites": 17704
+        },
+        {
+          "schematicId": "m3jzWkazn-9X0LXGe7Drk",
+          "name": "Castle Escape ",
+          "description": "New Update: REMADE THE ENTIRE MAP!!!",
+          "gamePublished": true,
+          "gameCategory": "Escape",
+          "ccu": 0,
+          "favourites": 17457
+        },
+        {
+          "schematicId": "CiJ7Sw0hN2SjghoEtQss1",
+          "name": "Treasure Hunt!",
+          "description": "[HUGE UPDATE] NEW NETHER + END UPDATE, SHOP MENU, LEADERBOARDS AND MORE!",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 0,
+          "favourites": 15941
+        },
+        {
+          "schematicId": "VlMtJ3OkR1jizLzdlOP0X",
+          "name": "Cube Parkour!",
+          "description": "Can You Beat it? >:D Credit for the map: Hielke Maps",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 0,
+          "favourites": 15877
+        },
+        {
+          "schematicId": "NwG4kHqBkiad-9FOtm--_",
+          "name": "u r   tiny",
+          "description": "update : kill = +1point",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 0,
+          "favourites": 15310
+        },
+        {
+          "schematicId": "Cbpnl7H7_zkIRV0hCPDlS",
+          "name": "⚡PVP_GODS⚡",
+          "description": "Lets Revive this OG custom world with over 15k likes!",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 0,
+          "favourites": 15060
+        },
+        {
+          "schematicId": "OU880KInxcJrP66zAlGCU",
+          "name": "Level_up_obby2",
+          "description": "Parkour Obby 🔲",
+          "gamePublished": true,
+          "gameCategory": "Obby",
+          "ccu": 0,
+          "favourites": 14751
+        },
+        {
+          "schematicId": "fgCV-skyiLIDRuLn_iPsB",
+          "name": "🟨-lucky_blocks-🟨",
+          "description": "Want to try your luck? Open 🟨 LUCKY BLOCKS! 🟨",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 0,
+          "favourites": 13292
+        },
+        {
+          "schematicId": "VLYgTygXmcwoHZlyScc4x",
+          "name": "Lava Boating Supreme",
+          "description": "UpdatedXD",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 0,
+          "favourites": 13052
+        },
+        {
+          "schematicId": "Q1rGHom_d5hBAOdwrojeN",
+          "name": "Boeing  747",
+          "description": "OP LOOT IN THE BACK OF THE PLANE",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 0,
+          "favourites": 12654
+        },
+        {
+          "schematicId": "uY3Rm1dEWcLEZytq11p82",
+          "name": "😱Parkour Tower🤑",
+          "description": "🤑Go through parkour, earn rewards, buy items and guns!",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 0,
+          "favourites": 12611
+        },
+        {
+          "schematicId": "CnNh1sU_FDnJmHlxPav7K",
+          "name": "Huge Mace PVP Map",
+          "description": "PLAY mace pvp",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 0,
+          "favourites": 12482
+        },
+        {
+          "schematicId": "jUtJI86WiG-rn9GBnWZod",
+          "name": "Nether PVP",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 0,
+          "favourites": 12243
+        },
+        {
+          "schematicId": "l7AhtmJBKFyBct5E0eHAU",
+          "name": "Lava Islands!",
+          "description": "Explore the map for op loot, try out lava boating, PvP, Kinght swords, Fur Armour, newest update!",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 0,
+          "favourites": 11865
+        },
+        {
+          "schematicId": "kkOP75auJHh5a9vhpZRry",
+          "name": "⏩speed-sim👟",
+          "description": "HUGE NEW 🎃EVENT🎃 AND UPDATE!",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 0,
+          "favourites": 11205
+        },
+        {
+          "schematicId": "ZDavxXfaF47HSJU6R6853",
+          "name": "随机物资空岛",
+          "description": "寻找这个游戏: 随机幸運物资空岛",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 0,
+          "favourites": 10272
+        },
+        {
+          "schematicId": "0AFAO1UARmJ3pU1ZPSf3s",
+          "name": "Mobs = COINS",
+          "description": "Kill mobs to get coins and become powerfull! By TempleRaider",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 0,
+          "favourites": 10147
+        },
+        {
+          "schematicId": "nc6ixLWXW2yrN3RP_xYYg",
+          "name": "DEAD_RAILS",
+          "description": "PLEASE PLAY THIS LOBBY\ndead-rails\nor\ndead_railss",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 0,
+          "favourites": 10075
+        },
+        {
+          "schematicId": "uVPzOW0uKXb1Q1f5b9GgC",
+          "name": "guns & fun",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 0,
+          "favourites": 9987
+        },
+        {
+          "schematicId": "rHDUBu3j4zoqfPZ-nIBU0",
+          "name": "!-Squid Game-!",
+          "description": "Created by Level20456YT\nThank you very much for the 8 thousand likes",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 0,
+          "favourites": 9715
+        },
+        {
+          "schematicId": "C5fPYjXYmBLoDHmRcySVy",
+          "name": "The Pit",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 0,
+          "favourites": 9314
+        },
+        {
+          "schematicId": "pd1Q2pJ8EOYySFw8l-VsP",
+          "name": "🌈Hunting🤑",
+          "description": "LOLINGTON",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 0,
+          "favourites": 9246
+        },
+        {
+          "schematicId": "i8P9kyMJvUDczcoO4RHb9",
+          "name": " OG Hole PvP",
+          "description": "The OG game",
+          "gamePublished": true,
+          "gameCategory": "Arena",
+          "ccu": 0,
+          "favourites": 9065
+        },
+        {
+          "schematicId": "k-VQZmWWe6_a9yR60K7FN",
+          "name": "无限资源空岛",
+          "description": "Alpha V1.0, 仅供测试, 真实历史建筑 (请去同名服务器)",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 0,
+          "favourites": 8954
+        },
+        {
+          "schematicId": "fihdH0o332Rj6npzqSFwf",
+          "name": "SkyBlock",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 0,
+          "favourites": 8914
+        },
+        {
+          "schematicId": "pMdyyqvV-ESMl5sDLl9Dn",
+          "name": "Woodland Mansion",
+          "description": "OP LOOT INSIDE SOME ROOMS",
+          "gamePublished": true,
+          "gameCategory": "Cool Build",
+          "ccu": 0,
+          "favourites": 8464
+        },
+        {
+          "schematicId": "Nz4CZ3I7-_zcHSfbqG5g_",
+          "name": "mob-arena",
+          "description": "plz like",
+          "gamePublished": true,
+          "gameCategory": "Survival",
+          "ccu": 0,
+          "favourites": 8181
+        },
+        {
+          "schematicId": "5w8MQx8EHT_490z3ibhkm",
+          "name": "Code find illigal",
+          "description": "Illigal",
+          "gamePublished": true,
+          "gameCategory": "Puzzle",
+          "ccu": 0,
+          "favourites": 8136
+        },
+        {
+          "schematicId": "scUW9hpYjJdtqYwsYG7Pk",
+          "name": "Cube escape !",
+          "description": "Can you escape from the cube ?\nLet's find the code block too !",
+          "gamePublished": true,
+          "gameCategory": "Escape",
+          "ccu": 0,
+          "favourites": 8124
+        },
+        {
+          "schematicId": "JiO6uTVBl4gIlfKrDhQ1X",
+          "name": "mini-player",
+          "description": "Loot chests now in map!",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 0,
+          "favourites": 8106
+        },
+        {
+          "schematicId": "42WwSduebNC-2_GmtjERg",
+          "name": "🧟RUN!🧟",
+          "description": "New zombies have arrived!! YIKES-",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 0,
+          "favourites": 7870
+        },
+        {
+          "schematicId": "vr2Vw1fo6sUeRpK_2XFMt",
+          "name": "Biomes Parkour",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 0,
+          "favourites": 7832
+        },
+        {
+          "schematicId": "Al1Tsr175ElooPoSBetXf",
+          "name": "PacMan Maze",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 0,
+          "favourites": 7771
+        },
+        {
+          "schematicId": "p2VPCdnCnUZSf79z_bxAO",
+          "name": "theolymp",
+          "description": "The Olymp",
+          "gamePublished": true,
+          "gameCategory": "Other",
+          "ccu": 0,
+          "favourites": 7614
+        },
+        {
+          "schematicId": "xY-rT21gtBVZz031ESfyn",
+          "name": "Parkour Cubed 3.0",
+          "description": "the game that randomly becomes popular time to time",
+          "gamePublished": true,
+          "gameCategory": "Parkour",
+          "ccu": 0,
+          "favourites": 7567
+        },
+        {
+          "schematicId": "9lAplFJ3saT6KiqmQB9No",
+          "name": "Lucky block chunk",
+          "description": "Hi! Please gift me super rank, if I get it and 500 likes\nI will create a new part!",
+          "gamePublished": true,
+          "gameCategory": "Lucky Block",
+          "ccu": 0,
+          "favourites": 7253
+        },
+        {
+          "schematicId": "26za6ymRobHF5QBGtSO8K",
+          "name": "Eiffel Tower Obby 2",
+          "description": "",
+          "gamePublished": true,
+          "gameCategory": "Tower",
+          "ccu": 0,
+          "favourites": 7143
+        },
+        {
+          "schematicId": "EmzehlaTc_ZPiaw4FmMi4",
+          "name": "The Dropper",
+          "description": "Drop. Parkour. Reward. Repeat. / \"The Dropper 2\" RELEASED",
+          "gamePublished": true,
+          "gameCategory": "Minigames",
+          "ccu": 0,
+          "favourites": 7129
+        },
+        {
+          "schematicId": "Ubc4q9eZw9bHfOmYUv3gq",
+          "name": "Garden Sim",
+          "description": "This is 100% \"totally\" a friendly and \"casual\" gardening sim.. Nothing could go wrong, right?..",
+          "gamePublished": true,
+          "gameCategory": "Simulator",
+          "ccu": 0,
+          "favourites": 7116
+        }
+      ]
+    }
   }
 ]

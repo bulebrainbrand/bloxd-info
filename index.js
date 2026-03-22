@@ -20,7 +20,7 @@ const waitForResponseData = (
   page,
   urlFragment,
   outputPath,
-  timeoutMs = 300000,
+  timeoutMs = 30000,
 ) => {
   return new Promise((resolve, reject) => {
     let timer = null;
@@ -75,11 +75,21 @@ const waitForResponseData = (
   });
 };
 
+const getCustomGameData = async (apiReq, payload, page) => {
+  payload.contents.pageNumber = page;
+  const res = await apiReq.post(
+    "https://social16.bloxd.io/social/get-published-game-previews",
+    { data: payload },
+  );
+  return await res.json();
+};
+
 const waitForResponseData2 = (
   page,
   urlFragment,
   outputPath,
-  timeoutMs = 300000,
+  getPageAmount,
+  timeoutMs = 30000,
 ) => {
   return new Promise((resolve, reject) => {
     let timer = null;
@@ -88,15 +98,18 @@ const waitForResponseData2 = (
         try {
           const req = res.request();
           let payload = req.postDataJSON();
-          payload.contents.pageSize = 250;
-          const apiRequest = res.frame().page().context().request;
-          const res2 = await apiRequest.post(
-            "https://social16.bloxd.io/social/get-published-game-previews",
-            { data: payload },
+          const apiRequest = page.context().request;
+          const data = await Promise.all(
+            Array.from({ length: getPageAmount }, (_, i) =>
+              getCustomGameData(apiRequest, payload, i + 1),
+            ),
           );
-          const json = await res2.json();
-          writeJsonSafely("custom_game_data.json", json);
-          resolve(json);
+          const marged = data.reduce(
+            (a, b) => ({ results: [...a.results, ...b.results] }),
+            { results: [] },
+          );
+          writeJsonSafely("custom_game_data.json", marged);
+          resolve(marged);
         } catch (err) {
           reject(err);
         }
@@ -160,6 +173,7 @@ const setPublishedGame = async (browser) => {
       page,
       "/get-published-game-preview",
       "custom_game_data.json",
+      5,
     );
     await page.goto("https://bloxd.io/custom-games", {
       waitUntil: "load",

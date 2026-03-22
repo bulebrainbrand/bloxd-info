@@ -104,6 +104,7 @@ const waitForResponseData2 = (
               getCustomGameData(apiRequest, payload, i + 1),
             ),
           );
+          console.log(data);
           const marged = data.reduce(
             (a, b) => ({ results: [...a.results, ...b.results] }),
             { results: [] },

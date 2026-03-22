@@ -117,10 +117,11 @@ const waitForResponseData2 = (
       const json = await res.json();
       data.push(json.results);
       await page
-        .locator("div.CustomGamePagination > div:last-child")
+        .locator("div.CustomGamePagination > div:last-child:has(> i)")
         .evaluate((el) => el.click());
     }
     console.log(data);
+    writeJsonSafely(outputPath, { results: data });
     resolve({ results: data });
   });
 };

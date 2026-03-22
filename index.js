@@ -75,6 +75,62 @@ const waitForResponseData = (
   });
 };
 
+const waitForResponseData2 = (
+  page,
+  urlFragment,
+  outputPath,
+  timeoutMs = 300000,
+) => {
+  return new Promise((resolve, reject) => {
+    let timer = null;
+    const onResponse = async (res) => {
+      if (res.url().includes(urlFragment)) {
+        try {
+          const req = res.request();
+          let payload = req.postDataJSON();
+          payload.content.pageSize = 250;
+          const apiRequest = res.frame().page().content().request;
+          const res2 = await apiRequest.post(
+            "https://social16.bloxd.io/social/get-published-game-previews",
+            { data: payload },
+          );
+          const json = res2.json();
+          resolve(json);
+        } catch (err) {
+          reject(err);
+        }
+      }
+    };
+
+    let resolvedOrRejected = false;
+
+    const cleanup = () => {
+      clearTimeout(timer);
+      page.off("response", onResponse);
+    };
+
+    const finish = (value) => {
+      if (resolvedOrRejected) return;
+      resolvedOrRejected = true;
+      cleanup();
+      resolve(value);
+    };
+
+    const fail = (error) => {
+      if (resolvedOrRejected) return;
+      resolvedOrRejected = true;
+      cleanup();
+      reject(error);
+    };
+
+    page.on("response", onResponse);
+
+    timer = setTimeout(() => {
+      fail(new Error(`Timeout waiting for response: ${urlFragment}`));
+    }, timeoutMs);
+  });
+};
+
 const setAllCCus = async (browser) => {
   const page = await browser.newPage();
   try {
@@ -99,7 +155,7 @@ const setAllCCus = async (browser) => {
 const setPublishedGame = async (browser) => {
   const page = await browser.newPage();
   try {
-    const responsePromise = waitForResponseData(
+    const responsePromise = waitForResponseData2(
       page,
       "/get-published-game-preview",
       "custom_game_data.json",

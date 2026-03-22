@@ -105,6 +105,9 @@ const waitForResponseData2 = (
       cleanup();
       reject(error);
     };
+    timer = setTimeout(() => {
+      fail(new Error(`Timeout waiting for response: ${urlFragment}`));
+    }, timeoutMs);
 
     for (let i = 0; i < getPageAmount; i++) {
       const responsePromise = page.waitForResponse((res) =>
@@ -113,14 +116,12 @@ const waitForResponseData2 = (
       const res = await responsePromise;
       const json = await res.json();
       data.push(json.results);
-      await page.locator("div.CustomGamePagination > div:last-child").click();
+      await page
+        .locator("div.CustomGamePagination > div:last-child")
+        .evaluate((el) => el.click());
     }
     console.log(data);
     resolve({ results: data });
-
-    timer = setTimeout(() => {
-      fail(new Error(`Timeout waiting for response: ${urlFragment}`));
-    }, timeoutMs);
   });
 };
 

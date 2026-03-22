@@ -75,16 +75,6 @@ const waitForResponseData = (
   });
 };
 
-const getCustomGameData = async (apiReq, payload, page) => {
-  payload.contents.pageNumber = page;
-  console.log("paylord:", payload);
-  const res = await apiReq.post(
-    "https://social16.bloxd.io/social/get-published-game-previews",
-    { data: payload },
-  );
-  return await res.json();
-};
-
 const waitForResponseData2 = (
   page,
   urlFragment,
@@ -92,37 +82,14 @@ const waitForResponseData2 = (
   getPageAmount,
   timeoutMs = 30000,
 ) => {
-  return new Promise((resolve, reject) => {
+  return new Promise(async (resolve, reject) => {
     let timer = null;
-    const onResponse = async (res) => {
-      if (res.url().includes(urlFragment)) {
-        try {
-          const req = res.request();
-          let payload = req.postDataJSON();
-          const apiRequest = page.context().request;
-          const data = await Promise.all(
-            Array.from({ length: getPageAmount }, (_, i) =>
-              getCustomGameData(apiRequest, payload, i + 1),
-            ),
-          );
-          console.log(data);
-          const marged = data.reduce(
-            (a, b) => ({ results: [...a.results, ...b.results] }),
-            { results: [] },
-          );
-          writeJsonSafely("custom_game_data.json", marged);
-          resolve(marged);
-        } catch (err) {
-          reject(err);
-        }
-      }
-    };
+    let data = [];
 
     let resolvedOrRejected = false;
 
     const cleanup = () => {
       clearTimeout(timer);
-      page.off("response", onResponse);
     };
 
     const finish = (value) => {
@@ -139,7 +106,17 @@ const waitForResponseData2 = (
       reject(error);
     };
 
-    page.on("response", onResponse);
+    for (let i = 0; i < getPageAmount; i++) {
+      const responsePromise = page.waitForResponse((res) =>
+        res.url().includes("/get-published-game-previews"),
+      );
+      const res = await responsePromise;
+      const json = await res.json();
+      data.push(json.results);
+      await page.locator("div.CustomGamePagination > div:last-child").click();
+    }
+    console.log(data);
+    resolve({ results: data });
 
     timer = setTimeout(() => {
       fail(new Error(`Timeout waiting for response: ${urlFragment}`));
@@ -163,6 +140,7 @@ const setAllCCus = async (browser) => {
     await responsePromise;
   } catch (err) {
     console.log("setAllCCus error:", err.message);
+    process.exit(1);
   } finally {
     await page.close().catch(() => {});
   }
@@ -185,6 +163,7 @@ const setPublishedGame = async (browser) => {
     await responsePromise;
   } catch (err) {
     console.log("setPublishedGame error:", err.message);
+    process.exit(1);
   } finally {
     await page.close().catch(() => {});
   }
@@ -196,6 +175,7 @@ const setPublishedGame = async (browser) => {
     await Promise.all([setAllCCus(browser), setPublishedGame(browser)]);
   } catch (err) {
     console.log("Global error:", err.message);
+    process.exit(1);
   } finally {
     await browser.close().catch(() => {});
   }

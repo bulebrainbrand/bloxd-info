@@ -80,7 +80,7 @@ const waitForResponseData2 = (
   urlFragment,
   outputPath,
   getPageAmount,
-  timeoutMs = 180000,
+  timeoutMs = 60000,
 ) => {
   return new Promise(async (resolve, reject) => {
     let timer = null;
@@ -123,6 +123,7 @@ const waitForResponseData2 = (
     }
     console.log(data);
     writeJsonSafely(outputPath, { results: data });
+    cleanup();
     resolve({ results: data });
   });
 };

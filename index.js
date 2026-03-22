@@ -77,6 +77,7 @@ const waitForResponseData = (
 
 const getCustomGameData = async (apiReq, payload, page) => {
   payload.contents.pageNumber = page;
+  console.log("paylord:", payload);
   const res = await apiReq.post(
     "https://social16.bloxd.io/social/get-published-game-previews",
     { data: payload },

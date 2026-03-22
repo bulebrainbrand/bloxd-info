@@ -94,7 +94,8 @@ const waitForResponseData2 = (
             "https://social16.bloxd.io/social/get-published-game-previews",
             { data: payload },
           );
-          const json = res2.json();
+          const json = await res2.json();
+          writeJsonSafely("custom_game_data.json", json);
           resolve(json);
         } catch (err) {
           reject(err);

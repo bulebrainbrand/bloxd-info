@@ -29,11 +29,16 @@ const fs = require("fs");
       } catch (err) {
         console.log("save error", err);
       }
-      await browser.close();
     }
   });
-  await page.goto("https://bloxd.io", {
-    waitUntil: "networkidle",
-    timeout: 600000,
-  });
+  try {
+    await page.goto("https://bloxd.io", {
+      waitUntil: "networkidle",
+      timeout: 30000,
+    });
+  } catch (err) {
+    console.log("Navigation error:", err.message);
+  } finally {
+    await browser.close();
+  }
 })();

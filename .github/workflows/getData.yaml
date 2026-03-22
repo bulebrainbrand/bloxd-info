@@ -15,16 +15,14 @@ jobs:
       - name: build node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "24"
       - name: install
         run: |
           npm install playwright
           npx playwright install chromium --with-deps
       - name: run index
-        continue-on-error: true
         run: node index.js
       - name: commit and push
-        if: always()
         run: |
           git config --local user.email "github-action[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"

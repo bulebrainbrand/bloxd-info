@@ -80,7 +80,7 @@ const waitForResponseData2 = (
   urlFragment,
   outputPath,
   getPageAmount,
-  timeoutMs = 30000,
+  timeoutMs = 180000,
 ) => {
   return new Promise(async (resolve, reject) => {
     let timer = null;

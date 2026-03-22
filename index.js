@@ -118,6 +118,7 @@ const waitForResponseData2 = (
       data.push(json.results);
       await page
         .locator("div.CustomGamePagination > div:last-child:has(> i)")
+        .last()
         .evaluate((el) => el.click());
     }
     console.log(data);

@@ -115,7 +115,7 @@ const waitForResponseData2 = (
       );
       const res = await responsePromise;
       const json = await res.json();
-      data.push(json.results);
+      data.push(...json.results);
       await page
         .locator("div.CustomGamePagination > div:last-child:has(> i)")
         .last()

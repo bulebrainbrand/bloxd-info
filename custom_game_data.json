@@ -2758,11 +2758,5 @@
       "pageNumber": 1,
       "totalPages": 200
     }
-  },
-  {
-    "at": "2026-03-22T11:08:32.442Z",
-    "data": {
-      "error": "Request rejected. If you think this is a bug, please inform a Bloxd admin, letting them know the date and time that you sent the request."
-    }
   }
 ]

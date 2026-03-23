@@ -157,7 +157,7 @@ const setPublishedGame = async (browser) => {
       page,
       "/get-published-game-preview",
       "custom_game_data.json",
-      5,
+      10,
     );
     await page.goto("https://bloxd.io/custom-games", {
       waitUntil: "load",

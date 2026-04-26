@@ -176,7 +176,8 @@ const setPublishedGame = async (browser) => {
 (async () => {
   const browser = await chromium.launch({ headless: true });
   try {
-    await Promise.all([setAllCCus(browser), setPublishedGame(browser)]);
+    await Promise.all([setAllCCus(browser), //setPublishedGame(browser)
+                       ]);
   } catch (err) {
     console.log("Global error:", err.message);
     process.exit(1);

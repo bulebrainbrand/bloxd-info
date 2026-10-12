@@ -218651,5 +218651,11 @@
       "extraction": 0,
       "survivalFactory": 109
     }
+  },
+  {
+    "at": "2026-10-12T05:23:23.457Z",
+    "data": {
+      "error": "Request rejected. If you think this is a bug, please inform a Bloxd admin, letting them know the date and time that you sent the request."
+    }
   }
 ]
